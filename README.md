@@ -1,10 +1,10 @@
-# Lab7_PHP_Dasar
+## Lab7_PHP_Dasar
 
 NIM : 312310526 <br>
 Nama : Nabila Aulia Agustin <br>
 Mata Kuliah : Pemrograman Web 1
 
-# Belajar PHP Dasar
+## Belajar PHP Dasar
 
 # **Step Mengaktifkan XAMPP :**
 1. Download XAMPP pada https://www.apachefriends.org/download.html (aku install versi 8.2.12 / PHP 8.2.12	)
