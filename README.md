@@ -19,6 +19,8 @@ Mata Kuliah : Pemrograman Web 1
 
 notes : file bisa dijalankan pada local jika kita menyimpannya dalam C:\xampp\htdocs, jika tidak, file tidak akan bisa dijalankan.
 
+# 
+
 **Cara Membuat Program**
 1. Buat folder Lab7_PHP_Dasar pada root directory > C:\xampp\htdocs
 ![Step3](https://github.com/user-attachments/assets/731993f0-1cb3-40fa-8702-18e29cd66cdb)
