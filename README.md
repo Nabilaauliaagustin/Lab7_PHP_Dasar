@@ -7,7 +7,7 @@ Mata Kuliah : Pemrograman Web 1
 # Belajar PHP Dasar
 
 **Step Mengaktifkan XAMPP :**
-1. Download XAMPP pada https://www.apachefriends.org/download.html
+1. Download XAMPP pada https://www.apachefriends.org/download.html (aku install versi 8.2.12 / PHP 8.2.12	)
 2. Unduh ZIP lalu Install
 3. Setelah semua sistem diinstal, sekarang buka XAMPP
 4. Start port Apache sebagai berikut (jika memiliki kendala saat start apache, bisa searching google)
