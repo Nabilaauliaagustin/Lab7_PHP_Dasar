@@ -45,6 +45,41 @@ Output :
 Output : 
 ![Step9a](https://github.com/user-attachments/assets/79400145-e2ee-4f3d-993c-e748192c63e2)
 
-4. 
-5. 
+# **Membuat Program Lain**
+1. Input Form dengan Predifine Variable, untuk mengakses harap ketik secara spesifik > http://localhost/lab7_php_dasar/latihan2.php?nama=Nana ['Nana' adalah isi variable yang saya masukan pada variable $nama, jadi, ketikkan nama yang kamu gunakan ya] <br>
+![Step10](https://github.com/user-attachments/assets/6b73d269-1ab1-4926-ba39-e6c639da1d6f)
+Output : 
+![Step10a](https://github.com/user-attachments/assets/bd2bd556-d30e-4dc5-b833-8c0fd3eff52d)
+
+2. Operator Hitungan
+![Step12](https://github.com/user-attachments/assets/10e21900-5c19-42ba-8a2a-0f9337e369ba)
+Output : 
+![Step12a](https://github.com/user-attachments/assets/f3b07999-203f-4dca-8a3c-95df4d1109e9)
+
+3. Kondisi IF. <br> - Jika hari ini adalah "Sunday" (Minggu), maka akan mencetak "Minggu". <br>
+- Jika hari ini adalah "Monday" (Senin), maka akan mencetak "Senin". <br>
+- Jika bukan hari Minggu atau Senin, maka akan mencetak "Selasa". <br>
+![Step13](https://github.com/user-attachments/assets/19da5d85-d995-4df5-b631-2067b6abb538)
+Output : 
+![Step13a](https://github.com/user-attachments/assets/57c2aca8-09d7-47a7-bc7f-fa9adf7ae804)
+
+4. Switch
+![Step14](https://github.com/user-attachments/assets/24e84814-f9c0-4e4e-b8e7-d169d4387d26)
+Output : 
+![Step14a](https://github.com/user-attachments/assets/b763b98e-2500-4f3f-b436-6b62f3b6dd64)
+
+5. Perulangan For 
+![Step15](https://github.com/user-attachments/assets/110cdecf-107a-4f12-adcf-3a2e75dfc0bb)
+Output : 
+![Step15a](https://github.com/user-attachments/assets/af0ddd00-2697-4e8e-a185-793aea36eed7)
+
+6. While 
+![Step16](https://github.com/user-attachments/assets/4dec7886-55a7-49fa-85fb-8cb32b40a662)
+Output  : 
+![Step16a](https://github.com/user-attachments/assets/92617897-6401-4e28-9e0c-849ddd4435ec)
+
+7. Do While
+![Step17](https://github.com/user-attachments/assets/58ae631e-bb3e-4298-99d0-6a9707b296c0)
+Output : 
+![Step17a](https://github.com/user-attachments/assets/c32eb069-4970-4624-b43f-f94bed55919c)
  
