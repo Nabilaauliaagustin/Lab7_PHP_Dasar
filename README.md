@@ -40,11 +40,11 @@ Output :
 Output : 
 ![Step7a](https://github.com/user-attachments/assets/4d995bbc-02a0-4ec3-bef6-3f918df14172)
 
-3. Menggunakan Predifine Variable untuk print output. _Predifine Variable_ adalah sejumlah variabel yang telah ditentukan sebelumnya, contohnya $_POST $_SERVER (info selanjutnya bisa cek disini > https://agussuratna.net/2021/08/variabel-dan-tipe-data-pada-php/ (untuk mengakses harap ketik secara spesifik > http://localhost/lab7_php_dasar/latihan2.php?nama=Nana ['Nana' adalah isi variable yang saya masukan pada variable $nama, jadi, ketikkan nama yang kamu gunakan ya] )<br>
+3. Menggunakan Predifine Variable untuk print output. _Predifine Variable_ adalah sejumlah variabel yang telah ditentukan sebelumnya atau default dan tidak bisa diubah, contohnya $_POST $_SERVER (info selanjutnya bisa cek disini > https://agussuratna.net/2021/08/variabel-dan-tipe-data-pada-php/ (untuk mengakses harap ketik secara spesifik > http://localhost/lab7_php_dasar/latihan2.php?nama=Nana ['Nana' adalah isi variable yang saya masukan pada variable $nama, jadi, ketikkan nama yang kamu gunakan ya] )<br>
 ![Step8a](https://github.com/user-attachments/assets/89e78a2c-496e-4a31-9ca1-31520b5c9d9f)
 Output : 
 ![Step9a](https://github.com/user-attachments/assets/79400145-e2ee-4f3d-993c-e748192c63e2)
 
-4.
+4. 
 5. 
  
