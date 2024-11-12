@@ -58,7 +58,8 @@ Output :
 Output : 
 ![Step12a](https://github.com/user-attachments/assets/f3b07999-203f-4dca-8a3c-95df4d1109e9)
 
-**3. Kondisi IF.** <br> - Jika hari ini adalah "Sunday" (Minggu), maka akan mencetak "Minggu". <br>
+**3. Kondisi IF.** <br> 
+- Jika hari ini adalah "Sunday" (Minggu), maka akan mencetak "Minggu". <br>
 - Jika hari ini adalah "Monday" (Senin), maka akan mencetak "Senin". <br>
 - Jika bukan hari Minggu atau Senin, maka akan mencetak "Selasa". <br>
 ![Step13](https://github.com/user-attachments/assets/19da5d85-d995-4df5-b631-2067b6abb538)
