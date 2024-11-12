@@ -1,12 +1,12 @@
-## Lab7_PHP_Dasar
+# Lab7_PHP_Dasar
 
 NIM : 312310526 <br>
 Nama : Nabila Aulia Agustin <br>
 Mata Kuliah : Pemrograman Web 1
 
-## Belajar PHP Dasar
+# Belajar PHP Dasar
 
-# **Step Mengaktifkan XAMPP :**
+## **Step Mengaktifkan XAMPP :**
 1. Download XAMPP pada https://www.apachefriends.org/download.html (aku install versi 8.2.12 / PHP 8.2.12	)
 2. Unduh ZIP lalu Install
 3. Setelah semua sistem diinstal, sekarang buka XAMPP
@@ -21,7 +21,7 @@ notes : file bisa dijalankan pada local jika kita menyimpannya dalam C:\xampp\ht
 
 # 
 
-# **Cara Membuat Program**
+## **Cara Membuat Program**
 **1. Buat folder Lab7_PHP_Dasar pada root directory > C:\xampp\htdocs**
 ![Step3](https://github.com/user-attachments/assets/731993f0-1cb3-40fa-8702-18e29cd66cdb)
 **2. Untuk Membuka akses Dictionary perlu masuk ke local host tersebut dengan mengetikkan > http://localhost/lab7_php_dasar/**
@@ -29,7 +29,7 @@ notes : file bisa dijalankan pada local jika kita menyimpannya dalam C:\xampp\ht
 
 # 
 
-# **Membuat Program**
+## **Membuat Program**
 **1. Belajar PHP Dasar, fungsi echo adalah sebagai print untuk ditampilkan pada website sebagai berikut <br>**
 ![Step5](https://github.com/user-attachments/assets/3ece625f-cb15-43c3-9cf2-9bfbbb69c256) <br>
 Output : 
@@ -47,7 +47,7 @@ Output :
 
 # 
 
-# **Membuat Program Lain**
+## **Membuat Program Lain**
 **1. Input Form dengan Predifine Variable**, untuk mengakses harap ketik secara spesifik > http://localhost/lab7_php_dasar/latihan2.php?nama=Nana ['Nana' adalah isi variable yang saya masukan pada variable $nama, jadi, ketikkan nama yang kamu gunakan ya] <br>
 ![Step10](https://github.com/user-attachments/assets/6b73d269-1ab1-4926-ba39-e6c639da1d6f)
 Output : 
