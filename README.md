@@ -1,7 +1,7 @@
 # Lab7_PHP_Dasar
 
-NIM : 312310526
-Nama : Nabila Aulia Agustin
+NIM : 312310526 <br>
+Nama : Nabila Aulia Agustin <br>
 Mata Kuliah : Pemrograman Web 1
 
 # Belajar PHP Dasar
